@@ -1,6 +1,6 @@
 # Study-Tips
 
-#### Submission for Sheridan Hackville 2022 \
+#### Submission for Sheridan Hackville 2022 
 \
 Authors/Group: \
 Peter Mangialardi: https://github.com/PeterM45 \

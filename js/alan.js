@@ -1,5 +1,5 @@
 var alanBtnInstance = alanBtn({
-  key: "eaa118c885fa5378ea5872bc4ca777522e956eca572e1d8b807a3e2338fdd0dc/stage",
+  key: "eaa118c885fa5378ea5872bc4ca777522e956eca572e1d8b807a3e2338fdd0dc/prod",
   onCommand: function (commandData) {
     //ALAN commands from main page to note-taking methods pages
     if (commandData.command === "outline") {

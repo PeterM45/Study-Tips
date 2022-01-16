@@ -1,6 +1,6 @@
 # Study-Tips
 
-Submission for Sheridan Hackville 2022 <br />
+Submission for Sheridan Hackville 2022 \
 Authors/Group: <br />
 Peter Mangialardi: https://github.com/PeterM45 <br />
 Moses Luna: https://github.com/mosesluna <br />
